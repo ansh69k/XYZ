@@ -1,6 +1,6 @@
 {
-  "name": "abc",
-  "projectId": "2c3dfe5c-03e1-45e5-907d-f446f7357868",
+  "name": "XYZ",
+  "projectId": "bc5a5e92-1338-40df-8377-00717f47186f",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "34f6e766-b70a-4a4e-81b1-6fd2fe978496",
+      "uniqueId": "5cf4f92c-b126-40fa-a107-258683199fc1",
       "input": [],
       "output": []
     }
